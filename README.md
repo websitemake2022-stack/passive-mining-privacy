@@ -1,0 +1,1 @@
+# passive-mining-privacy
